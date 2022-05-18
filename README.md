@@ -194,4 +194,4 @@ class _DetailPageState extends State<DetailPage> {
 ```
 -[ ] Pictures:
 
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftasbeh&psig=AOvVaw0tyjLi-c1_vrJnah9N5q-C&ust=1652949796721000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiC9YHU6PcCFQAAAAAdAAAAABA1)
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FaRN5zk4hHN7x3p5mY8WIxbayw3gxU0OhKovgkZZhc0DY3tCGT99uKEsA72V4ss-86-c&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.muallim.user.kifoya%26hl%3Dru%26gl%3DUS&tbnid=QGHJf6RE1r_65M&vet=12ahUKEwia1dz-1ej3AhWFB3cKHRKTBF4QMygBegQIARAe..i&docid=lyXTDvFQEgKmeM&w=512&h=512&q=rasim%20tasbeh&ved=2ahUKEwia1dz-1ej3AhWFB3cKHRKTBF4QMygBegQIARAe)
