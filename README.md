@@ -191,7 +191,7 @@ class _DetailPageState extends State<DetailPage> {
     );
   }
 }
-
+```
 -[ ] Pictures:
 
 ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftasbeh&psig=AOvVaw0tyjLi-c1_vrJnah9N5q-C&ust=1652949796721000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiC9YHU6PcCFQAAAAAdAAAAABA1)
